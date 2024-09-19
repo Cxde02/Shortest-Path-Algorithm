@@ -1,6 +1,6 @@
 # Shortest-Path-Algorithm
 
-This Java application generates a random graph with specified nodes, assigns each node random x and y coordinates, and calculates the shortest path between two nodes using a graph algorithm (e.g., Dijkstra's algorithm). The application visualizes the graph and the shortest path, providing the path's length as output.
+This Java application generates a random graph with specified nodes, assigns each node random x and y coordinates, and calculates the shortest path between two nodes using Dijkstra's algorithm. The application visualizes the shortest path, providing the path's length as output.
 
 ## Key Features:
 
