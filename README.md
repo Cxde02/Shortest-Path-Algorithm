@@ -4,8 +4,11 @@ This Java application generates a random graph with specified nodes, assigns eac
 
 ## Key Features:
 
-Node Generation: Creates nodes with random coordinates.
-Graph Construction: Connects nodes based on specified criteria (e.g., distance, probability).
-Shortest Path Algorithm: Implements Dijkstra's algorithm to find the shortest path.
-Visualization: Displays the calculated shortest path.
-Output: Provides the length of the shortest path.
+<ol>
+  <li>Node Generation: Creates nodes with random coordinates.</li>
+<li>Graph Construction: Connects nodes based on specified criteria (e.g., distance, probability).</li>
+<li>Shortest Path Algorithm: Implements Dijkstra's algorithm to find the shortest path.</li>
+<li>Visualization: Displays the calculated shortest path.</li>
+<li>Output: Provides the length of the shortest path.</li>
+</ol>
+
